@@ -1,5 +1,5 @@
 // add solution here
-function theBeatlesPlay(musicians, instruments){
+function theBeatlesPlay(musicians, instruments) {
 var array = [];
 var action = 'plays'
 for (var i = 0; i < musicians.length; i++) {
@@ -8,4 +8,4 @@ for (var i = 0; i < musicians.length; i++) {
   return array
 }
 
-function johnLennonFacts()
+function johnLennonFacts() {}
